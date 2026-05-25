@@ -87,14 +87,14 @@
     "leadHeading": "[MY] Lead instructor",
     "photoAlt": "[MY] Instructor photo placeholder",
     "photoCaption": "[MY] Photo coming soon",
-    "name": "[MY] <Your full name>",
-    "bio": "[MY] <1-paragraph bio. Mention: years of experience, languages/tools, why this Tour matters personally, current role if relevant, GitHub handle.>",
+    "name": "[MY] kokoye2007",
+    "bio": "[MY] Lead instructor of Vibe Code Tours. I build with AI coding tools and run this cohort to help Myanmar developers find their footing in the fast-moving AI coding landscape — awareness over mastery, AI as the default pair. Most of my work lives on GitHub.",
     "github": "[MY] GitHub",
     "githubHandle": "@kokoye2007",
     "githubUrl": "https://github.com/kokoye2007",
     "x": "[MY] X / Twitter",
-    "xHandle": "@your-handle",
-    "xUrl": "https://x.com/your-handle",
+    "xHandle": "@kokoye2007",
+    "xUrl": "https://x.com/kokoye2007",
     "emailLabel": "[MY] Email",
     "email": "ai+tour@vibecode.tours",
     "advisorsHeading": "[MY] Advisors",
@@ -208,7 +208,7 @@
       },
       {
         "q": "[MY] Do I get a certificate?",
-        "a": "[MY] Finish the Tour and find out. We don't lead with a certificate \u2014 a PDF isn't why you came. But complete the journey and there's a hidden gem waiting at the end for those who make it through. Along the way you also earn the things that actually carry weight: a public PR on the Tour Repo (your portfolio), a demo day recording (your work, shareable), and a reference letter on request. The gem is the reward; the work is the proof."
+        "a": "[MY] Finish the Tour and find out. We don't lead with a certificate — a PDF isn't why you came. But complete the journey and there's a hidden gem waiting at the end for those who make it through. Along the way you also earn the things that actually carry weight: a public PR on the Tour Repo (your portfolio), a demo day recording (your work, shareable), and a reference letter on request. The gem is the reward; the work is the proof."
       },
       {
         "q": "[MY] Can I join from outside Myanmar?",

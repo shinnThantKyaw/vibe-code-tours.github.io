@@ -50,11 +50,26 @@
     "intro2": "We started this Tour for a specific group: Myanmar developers who can follow a terminal, want to build, and need a curated entry into the AI coding ecosystem without paying $1000 for a bootcamp that teaches yesterday's tools.",
     "believeHeading": "What we believe",
     "beliefs": [
-      { "title": "Awareness over mastery.", "body": "You don't need to master Claude Code, Cursor, Copilot, and four others. You need to know they exist, what they're for, and how to pick. Mastery comes after." },
-      { "title": "AI is the default partner, not an afterthought.", "body": "Claude shows up in every chapter — including the team workflows chapter, the deployment chapter, the testing chapter. Not just the \"AI module.\"" },
-      { "title": "Projects are vehicles, not outcomes.", "body": "60% finished with insight beats 100% finished without. The point is what you understand, not what you shipped." },
-      { "title": "Honest about what we skip.", "body": "We don't teach a specific framework deeply. We don't certify. We don't place students in jobs. We tell you what we're NOT doing as clearly as what we ARE." },
-      { "title": "Teaching is recursive.", "body": "Each cohort makes the next cohort better. We publish what we learn. We publish what didn't work." }
+      {
+        "title": "Awareness over mastery.",
+        "body": "You don't need to master Claude Code, Cursor, Copilot, and four others. You need to know they exist, what they're for, and how to pick. Mastery comes after."
+      },
+      {
+        "title": "AI is the default partner, not an afterthought.",
+        "body": "Claude shows up in every chapter — including the team workflows chapter, the deployment chapter, the testing chapter. Not just the \"AI module.\""
+      },
+      {
+        "title": "Projects are vehicles, not outcomes.",
+        "body": "60% finished with insight beats 100% finished without. The point is what you understand, not what you shipped."
+      },
+      {
+        "title": "Honest about what we skip.",
+        "body": "We don't teach a specific framework deeply. We don't certify. We don't place students in jobs. We tell you what we're NOT doing as clearly as what we ARE."
+      },
+      {
+        "title": "Teaching is recursive.",
+        "body": "Each cohort makes the next cohort better. We publish what we learn. We publish what didn't work."
+      }
     ],
     "notHeading": "What this Tour is NOT",
     "notList": [
@@ -72,14 +87,14 @@
     "leadHeading": "Lead instructor",
     "photoAlt": "Instructor photo placeholder",
     "photoCaption": "Photo coming soon",
-    "name": "<Your full name>",
-    "bio": "<1-paragraph bio. Mention: years of experience, languages/tools, why this Tour matters personally, current role if relevant, GitHub handle.>",
+    "name": "kokoye2007",
+    "bio": "Lead instructor of Vibe Code Tours. I build with AI coding tools and run this cohort to help Myanmar developers find their footing in the fast-moving AI coding landscape — awareness over mastery, AI as the default pair. Most of my work lives on GitHub.",
     "github": "GitHub",
     "githubHandle": "@kokoye2007",
     "githubUrl": "https://github.com/kokoye2007",
     "x": "X / Twitter",
-    "xHandle": "@your-handle",
-    "xUrl": "https://x.com/your-handle",
+    "xHandle": "@kokoye2007",
+    "xUrl": "https://x.com/kokoye2007",
     "emailLabel": "Email",
     "email": "ai+tour@vibecode.tours",
     "advisorsHeading": "Advisors",
@@ -183,19 +198,58 @@
     "description": "Frequently asked questions about Vibe Code Tours: is it free, certificates, time commitment, joining from abroad, and more.",
     "heading": "Frequently asked questions",
     "items": [
-      { "q": "Is the Tour really free?", "a": "Yes. We're sponsor-funded. We don't take money from students. We may ask for an optional voluntary contribution at the end if you found it valuable, but it's never required." },
-      { "q": "Why \"Tour\"?", "a": "We tour the AI coding ecosystem — multiple tools, multiple workflows, multiple model providers. Not a bootcamp on one stack." },
-      { "q": "Do I get a certificate?", "a": "Finish the Tour and find out. We don't lead with a certificate \u2014 a PDF isn't why you came. But complete the journey and there's a hidden gem waiting at the end for those who make it through. Along the way you also earn the things that actually carry weight: a public PR on the Tour Repo (your portfolio), a demo day recording (your work, shareable), and a reference letter on request. The gem is the reward; the work is the proof." },
-      { "q": "Can I join from outside Myanmar?", "a": "Yes. Instruction is English. Cohort schedule is Myanmar evening / SE Asia evening, which works for ~half the planet." },
-      { "q": "How much time do I need per week?", "a": "5-8 hours outside the 4 hours of class. Honest answer: closer to 8 if you're newer." },
-      { "q": "What if I can't make a session?", "a": "Up to one-third of sessions can be missed without penalty (recordings provided). Beyond that you risk losing your cohort spot." },
-      { "q": "What if I don't have a project idea?", "a": "That's normal for beginners. Chapter 3 helps you find one. Many students enter with no idea and leave with a working prototype." },
-      { "q": "Will you teach a specific tool?", "a": "We touch on Claude Code (deeply), plus Cursor, Copilot, Aider, and the broader landscape. We don't promise depth on any single tool besides Claude Code." },
-      { "q": "What if I don't speak English well?", "a": "We provide Burmese support in channel for questions. Course materials are English; we recommend Claude itself for translation help — meta, but it works." },
-      { "q": "Do you teach machine learning?", "a": "No. We teach AI-paired CODING. Claude is the AI; you're the coder. We don't teach how to build models — we teach how to ship with them." },
-      { "q": "Will there be a Cohort 2?", "a": "If Cohort 1 goes well. Subscribe via the apply page." },
-      { "q": "How do I help?", "a": "See the sponsors page for organization-level support or individual donations. Or share this site with one developer who'd benefit." },
-      { "q": "I have a question not answered here.", "a": "Email ai+tour@vibecode.tours." }
+      {
+        "q": "Is the Tour really free?",
+        "a": "Yes. We're sponsor-funded. We don't take money from students. We may ask for an optional voluntary contribution at the end if you found it valuable, but it's never required."
+      },
+      {
+        "q": "Why \"Tour\"?",
+        "a": "We tour the AI coding ecosystem — multiple tools, multiple workflows, multiple model providers. Not a bootcamp on one stack."
+      },
+      {
+        "q": "Do I get a certificate?",
+        "a": "Finish the Tour and find out. We don't lead with a certificate — a PDF isn't why you came. But complete the journey and there's a hidden gem waiting at the end for those who make it through. Along the way you also earn the things that actually carry weight: a public PR on the Tour Repo (your portfolio), a demo day recording (your work, shareable), and a reference letter on request. The gem is the reward; the work is the proof."
+      },
+      {
+        "q": "Can I join from outside Myanmar?",
+        "a": "Yes. Instruction is English. Cohort schedule is Myanmar evening / SE Asia evening, which works for ~half the planet."
+      },
+      {
+        "q": "How much time do I need per week?",
+        "a": "5-8 hours outside the 4 hours of class. Honest answer: closer to 8 if you're newer."
+      },
+      {
+        "q": "What if I can't make a session?",
+        "a": "Up to one-third of sessions can be missed without penalty (recordings provided). Beyond that you risk losing your cohort spot."
+      },
+      {
+        "q": "What if I don't have a project idea?",
+        "a": "That's normal for beginners. Chapter 3 helps you find one. Many students enter with no idea and leave with a working prototype."
+      },
+      {
+        "q": "Will you teach a specific tool?",
+        "a": "We touch on Claude Code (deeply), plus Cursor, Copilot, Aider, and the broader landscape. We don't promise depth on any single tool besides Claude Code."
+      },
+      {
+        "q": "What if I don't speak English well?",
+        "a": "We provide Burmese support in channel for questions. Course materials are English; we recommend Claude itself for translation help — meta, but it works."
+      },
+      {
+        "q": "Do you teach machine learning?",
+        "a": "No. We teach AI-paired CODING. Claude is the AI; you're the coder. We don't teach how to build models — we teach how to ship with them."
+      },
+      {
+        "q": "Will there be a Cohort 2?",
+        "a": "If Cohort 1 goes well. Subscribe via the apply page."
+      },
+      {
+        "q": "How do I help?",
+        "a": "See the sponsors page for organization-level support or individual donations. Or share this site with one developer who'd benefit."
+      },
+      {
+        "q": "I have a question not answered here.",
+        "a": "Email ai+tour@vibecode.tours."
+      }
     ]
   },
   "contact": {
