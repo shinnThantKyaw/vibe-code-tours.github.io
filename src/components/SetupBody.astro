@@ -55,6 +55,22 @@ claude                      # first run: opens your browser to log in`}</code></
   <p>{s.s4Login}</p>
   <pre class="mt-3 overflow-x-auto rounded-lg bg-gray-900 p-4 text-sm text-gray-100"><code>Say hello in one sentence.</code></pre>
   <p>{s.s4Note}</p>
+  <p class="mt-4">{s.s4PathB}</p>
+  <pre class="mt-2 overflow-x-auto rounded-lg bg-gray-900 p-4 text-sm text-gray-100"><code>npm install -g @anthropic-ai/claude-code
+claude --version</code></pre>
+  <p class="mt-3 rounded-lg border-l-4 border-accent-300 bg-accent-50 px-4 py-2 text-sm text-gray-700">{s.s4Cost}</p>
+
+  <h2>{s.s5opH}</h2>
+  <p>{s.s5opIntro}</p>
+  <pre class="mt-3 overflow-x-auto rounded-lg bg-gray-900 p-4 text-sm text-gray-100"><code>{`# Path A — official installer
+curl -fsSL https://opencode.ai/install | bash
+opencode --version`}</code></pre>
+  <p class="mt-3">{s.s5opPathB}</p>
+  <pre class="mt-2 overflow-x-auto rounded-lg bg-gray-900 p-4 text-sm text-gray-100"><code>{`# Path B — npm fallback
+npm install -g opencode-ai
+opencode --version`}</code></pre>
+  <p class="mt-3">{s.s5opAfter}</p>
+  <p class="mt-3 rounded-lg border-l-4 border-accent-300 bg-accent-50 px-4 py-2 text-sm text-gray-700">{s.s5opCost}</p>
 
   <h2>{s.s5H}</h2>
   <p>{s.s5Intro}</p>
@@ -87,6 +103,12 @@ ssh -T git@github.com                                # "Hi <username>!" = succes
   <p>{s.s7Intro}</p>
   <pre class="mt-3 overflow-x-auto rounded-lg bg-gray-900 p-4 text-sm text-gray-100"><code>{oneLiner}</code></pre>
   <p>{s.s7Target}</p>
+
+  <p class="mt-6 rounded-lg border border-accent-300 bg-accent-50 px-4 py-3 text-sm">
+    <strong>{s.pricingLinkLabel}</strong>
+    {' '}
+    <a href={s.pricingLinkUrl} rel="noopener" target="_blank">{s.pricingLinkText}</a>
+  </p>
 
   <h2>{s.troubleH}</h2>
   <div class="mt-3 overflow-x-auto">
