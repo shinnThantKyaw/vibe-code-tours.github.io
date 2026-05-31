@@ -1,16 +1,19 @@
 ---
-name: Your Name
-github: your-github-username
+name: Si Thu Tun
+github: [SiThuTun-mdy](https://github.com/SiThuTun-mdy)
 cohort: 1
 role: builder
-skills: ["JavaScript", "Python", "Claude Code"]
+skills: ["Java", "JavaScript", "React", "Claude Code"]
 repo: https://github.com/your-github-username/your-project
 x: your-x-handle
-linkedin: your-linkedin-username
+linkedin: [Si Thu Tun](https://www.linkedin.com/in/si-thu-tun-87b5b2b9/)
 website: https://your-site.com
 ---
 
-Hi! I'm learning to vibe-code with AI. My goal is to build and ship something
+Hi there, Here's Si Thu Tun, Learning and coding.
+Love to watch anime while relaxing.
+
+Currently learning to vibe-code with AI. My goal is to build and ship something
 real by Demo Day. Excited to be part of the Tour.
 
 <!--
