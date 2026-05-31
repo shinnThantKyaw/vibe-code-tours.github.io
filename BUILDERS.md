@@ -54,11 +54,19 @@ name: Your Name
 github: your-username
 cohort: 1
 role: builder
+skills: ["JavaScript", "Python", "Claude Code"]
 repo: https://github.com/your-username/your-project
+x: your-x-handle
+linkedin: your-linkedin-username
+website: https://your-site.com
 ---
 
 Hi! 2–3 sentences about you — why you're here, what you want to build.
 ```
+
+Only `name`, `github`, `cohort` are required. `skills`, `repo`, `x`,
+`linkedin`, `website` are optional — delete any you don't want shown.
+Social fields accept a handle (`kokoye2007`) or a full URL.
 
 **Rules:**
 
@@ -144,11 +152,19 @@ name: သင့်နာမည်
 github: your-username
 cohort: 1
 role: builder
+skills: ["JavaScript", "Python", "Claude Code"]
 repo: https://github.com/your-username/your-project
+x: your-x-handle
+linkedin: your-linkedin-username
+website: https://your-site.com
 ---
 
 ဟိုင်း! ကိုယ့်အကြောင်း ၂–၃ ကြောင်း — ဘာကြောင့် ပါဝင်ချင်တာလဲ၊ ဘာ build ချင်လဲ။
 ```
+
+`name`, `github`, `cohort` သာ မဖြစ်မနေ လိုအပ်တယ်။ `skills`, `repo`, `x`,
+`linkedin`, `website` က optional — မလိုတာ ဖျက်လို့ရတယ်။ Social field တွေက
+handle (`kokoye2007`) ဒါမှမဟုတ် URL အပြည့် လက်ခံတယ်။
 
 **စည်းမျဉ်းများ —**
 

@@ -11,7 +11,11 @@ const builders = defineCollection({
     github: z.string(),
     cohort: z.number(),
     role: z.enum(["builder", "mentor", "instructor"]).default("builder"),
-    repo: z.string().url().optional(),
+    skills: z.array(z.string()).optional(), // e.g. ["Python", "React", "MCP"]
+    repo: z.string().url().optional(), // personal / project repo
+    x: z.string().optional(), // X/Twitter handle or URL
+    linkedin: z.string().optional(), // LinkedIn handle or URL
+    website: z.string().url().optional(), // personal site
     // team: z.string().optional(),     // DEFERRED — teams not formed yet
     // project: z.string().optional(),  // DEFERRED — no projects yet
   }),
