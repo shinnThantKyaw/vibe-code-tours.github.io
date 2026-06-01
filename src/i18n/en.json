@@ -295,7 +295,7 @@
     "fastH": "Fast path (one command)",
     "fastIntro": "Comfortable in a terminal? This installs everything + verifies:",
     "fastTarget": "Safe to re-run. At the end you want: Passed: 6, Failed: 0.",
-    "fastGist": "Source and this guide live on the gist.",
+    "fastGist": "Source and this guide live in the GitHub repo.",
     "fastWindows": "Windows: install WSL first (Step 0), then run that inside Ubuntu. The script doesn't do the editor (Step 5) or GitHub SSH (Step 6) — do those manually.",
     "s0H": "Step 0 — Windows only: install WSL",
     "s0Body": "Native Windows isn't supported directly — you run everything inside WSL (real Linux inside Windows). In PowerShell (Admin):",

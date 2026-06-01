@@ -4,15 +4,13 @@ import { t, getLocale, localizedPath, type Locale } from "../i18n/utils";
 const locale: Locale = getLocale(Astro.url.pathname);
 const s = t(locale).setup;
 
-const SCRIPT =
-  "https://gist.githubusercontent.com/kokoye2007/e8d30985faca6292a50bdd3b0409105f/raw/student-setup.sh";
-const GIST =
-  "https://gist.github.com/kokoye2007/e8d30985faca6292a50bdd3b0409105f";
+const REPO = "https://github.com/vibe-code-tours/vibecode-setup";
+const RAW = "https://raw.githubusercontent.com/vibe-code-tours/vibecode-setup/main";
+const SCRIPT = `${RAW}/student-setup.sh`;
+const GIST = REPO;
 const oneLiner = `curl -fsSL ${SCRIPT} | bash`;
-const API_SETUP =
-  "https://gist.githubusercontent.com/kokoye2007/e8d30985faca6292a50bdd3b0409105f/raw/api-setup.sh";
-const KEYFILE =
-  "https://gist.githubusercontent.com/kokoye2007/e8d30985faca6292a50bdd3b0409105f/raw/vibe-key.env.example";
+const API_SETUP = `${RAW}/api-setup.sh`;
+const KEYFILE = `${RAW}/vibe-key.env.example`;
 ---
 
 <article
